@@ -26,4 +26,7 @@ asdf
 asd
 <a name="#testInstructions"/>## Test Instructions
 
-asdf
+This app is designed to help the user create a professional README file.
+
+
+This app uses command-line prompts that accepts user input to create a high-quality README file.
